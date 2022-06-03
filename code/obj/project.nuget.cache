@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hQPv1EzGeGfnoWZ0s99NF7U9QeOnWJalI+eYrk9rqpO5IPS/V4Ta/lCMQRy8c8eHX6t9PrVs/fPYyMplHnFWLg==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\Notia-Seed-Graber\\NoitaSeedGraber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ja\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.3\\microsoft.netcore.app.runtime.win-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\Ja\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\Ja\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.3\\microsoft.aspnetcore.app.runtime.win-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
