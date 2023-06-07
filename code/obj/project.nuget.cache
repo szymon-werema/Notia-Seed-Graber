@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sw6/McQ5ZMKzDIjdMpv0+A87eRLzm85+XZSeCLwA+embJ0/casv9KSrym0m9UYTVLj9Obo0V864gCvHxCNBeLQ==",
+  "dgSpecHash": "1F0LDUk/EzjlA67Xwx+SUZSQcLXJotVSizsKyAIEk3M3x7qZLa6AJJmnjRveqDv8fP1xwrGTQzZDNZqm1LLTNA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\kamil\\Desktop\\seed_grabber\\Notia-Seed-Graber\\code\\NoitaSeedGraber.csproj",
+  "projectFilePath": "C:\\Users\\kamil\\Desktop\\seed_grabber\\Notia-Seed-Graber\\code\\NoitaSeedGraber.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kamil\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
     "C:\\Users\\kamil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",

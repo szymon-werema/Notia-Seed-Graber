@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kamil\\Desktop\\seed_grabber\\Notia-Seed-Graber\\code\\NoitaSeedGraber.csproj": {}
+    "C:\\Users\\kamil\\Desktop\\seed_grabber\\Notia-Seed-Graber\\code\\NoitaSeedGraber.csproj": {}
   },
   "projects": {
-    "c:\\Users\\kamil\\Desktop\\seed_grabber\\Notia-Seed-Graber\\code\\NoitaSeedGraber.csproj": {
+    "C:\\Users\\kamil\\Desktop\\seed_grabber\\Notia-Seed-Graber\\code\\NoitaSeedGraber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kamil\\Desktop\\seed_grabber\\Notia-Seed-Graber\\code\\NoitaSeedGraber.csproj",
+        "projectUniqueName": "C:\\Users\\kamil\\Desktop\\seed_grabber\\Notia-Seed-Graber\\code\\NoitaSeedGraber.csproj",
         "projectName": "NoitaSeedGraber",
-        "projectPath": "c:\\Users\\kamil\\Desktop\\seed_grabber\\Notia-Seed-Graber\\code\\NoitaSeedGraber.csproj",
+        "projectPath": "C:\\Users\\kamil\\Desktop\\seed_grabber\\Notia-Seed-Graber\\code\\NoitaSeedGraber.csproj",
         "packagesPath": "C:\\Users\\kamil\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kamil\\Desktop\\seed_grabber\\Notia-Seed-Graber\\code\\obj\\",
+        "outputPath": "C:\\Users\\kamil\\Desktop\\seed_grabber\\Notia-Seed-Graber\\code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kamil\\AppData\\Roaming\\NuGet\\NuGet.Config"
