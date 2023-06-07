@@ -9,7 +9,7 @@ static extern IntPtr OpenProcess(uint dwDesiredAccess, bool bInheritHandle, uint
 [DllImport("kernel32.dll")]
 static extern bool ReadProcessMemory(IntPtr hProcess, IntPtr lpBaseAddress, byte[] lpBuffer, int dwSize, ref int lpNumberOfBytesRead);
 
-const int NOITA_SEED_VM_ADDRESS = 0xBEE850;
+const int NOITA_SEED_VM_ADDRESS = 0xbf5a48;
 
 
 Process? noitaProcess = null;
